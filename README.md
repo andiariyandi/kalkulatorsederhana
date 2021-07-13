@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Program Kalkulator Sederhana</h1>
+# Program Kalkulator Sederhana
 <p align="center">
   <img src="https://img.shields.io/github/issues/andiariyandi/kalkulatorsederhana"/> 
   <img alt="Stars" src="https://img.shields.io/github/stars/andiariyandi/kalkulatorsederhana?style=flat-square&labelColor=343b41"/>
